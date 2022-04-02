@@ -7,11 +7,17 @@
 .socials:hover {
     opacity: 1;
     color: white;
+    transform: scale(1.45);
 }
 .center {
     position: absolute;
     display: flex;
-    width: 100%;
-    top: 1%;
+    width: 99%;
+    top: 45%;
     justify-content: center;
+    text-align: center;
+    
+}
+body{
+    background-color: rgb(17,17,17);
 }
