@@ -2,12 +2,12 @@
     color: rgb(145, 145, 145);
     opacity: 0.5;
     transition: 0.3s;
-    width:60px;
+    width:65px;
 }
 .socials:hover {
     opacity: 1;
     color: white;
-    transform: scale(1.45);
+    transform: scale(1.4);
 }
 .center {
     position: absolute;
