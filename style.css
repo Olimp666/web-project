@@ -1,6 +1,6 @@
 .socials {
     color: rgb(145, 145, 145);
-    opacity: 0.5;
+    opacity: 0.6;
     transition: 0.3s;
     width:65px;
 }
@@ -20,4 +20,6 @@
 }
 body{
     background-color: rgb(17,17,17);
+    background-image:url("images/camel-rgb.png");
+    background-size: cover;
 }
