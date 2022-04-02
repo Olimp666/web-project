@@ -1,0 +1,17 @@
+.socials {
+    color: rgb(145, 145, 145);
+    opacity: 0.5;
+    transition: 0.3s;
+    width:60px;
+}
+.socials:hover {
+    opacity: 1;
+    color: white;
+}
+.center {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    top: 1%;
+    justify-content: center;
+}
