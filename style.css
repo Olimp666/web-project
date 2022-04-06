@@ -19,22 +19,21 @@ body {
 }
 
 .center {
-    position: absolute;
+    position: relative;
     display: flex;
-    gap: 80px;
-    width: 100%;
-    top: 50%;
     justify-content: center;
     text-align: center;
+    gap: 80px;
+    width: 100%;
+    top: 200px;
     animation: zoomin 2s;
 }
-
 .photo {
-    position: absolute;
+    position:relative;
     display: flex;
-    width: 100%;
-    top: 15%;
     justify-content: center;
+    width: 100%;
+    top: 130px;
     animation: fadein 3s;
 }
 
